@@ -1,0 +1,7 @@
+﻿OrderID,OrderDate,CustomerName,Country,Product,Quantity,Sales,EmployeeName,ShipAddress
+203,2026-10-12,John Miller,USA,Office Chair,1,230,David Lee,
+208,2026-10-23,Sara Martin,France,Wireless Mouse,2,110,David Lee,
+212,2026-10-27,Emma Schmidt,Germany,Smart Phone,2,840,Maya Brown,
+215,2026-10-30,Lukas Weber,Germany,Standing Desk,1,380,Maya Brown,"16 Park Rd, Munich"
+224,2026-11-02,Emma Schmidt,Germany,Wireless Mouse,2,110,Maya Brown,"22 Oak St, Berlin"
+218,2026-11-04,Noah Adams,USA,Smart Phone,1,420,Omar Ali,"31 Oak St, Boston"

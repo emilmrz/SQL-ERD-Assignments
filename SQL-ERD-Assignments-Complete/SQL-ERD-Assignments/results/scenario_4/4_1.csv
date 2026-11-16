@@ -1,0 +1,9 @@
+﻿OrderID,OrderDate,CustomerID,CustomerName,Country,Product,Category,EmployeeName,Quantity,Sales
+202,2026-10-08,3,Emma Schmidt,Germany,Laptop,Electronics,Maya Brown,1,850
+204,2026-10-15,5,Lukas Weber,Germany,Smart Phone,Electronics,Maya Brown,1,420
+205,2026-10-20,3,Emma Schmidt,Germany,Laptop,Electronics,Maya Brown,8,6800
+211,2026-10-26,5,Lukas Weber,Germany,Notebook,Stationery,David Lee,10,120
+206,2026-10-21,2,John Miller,USA,Smart Phone,Electronics,David Lee,3,1260
+207,2026-10-22,6,Noah Adams,USA,Office Chair,Furniture,Omar Ali,4,920
+213,2026-10-28,2,John Miller,USA,USB Hub,Electronics,David Lee,3,135
+223,2026-10-29,2,John Miller,USA,Office Chair,Furniture,David Lee,1,230

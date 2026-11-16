@@ -1,0 +1,16 @@
+﻿PeriodLabel,OrderID,OrderDate,CustomerID,CustomerName,EmployeeName,Sales
+October 2026,201,2026-10-04,1,Ayla Karimova,David Lee,110
+October 2026,202,2026-10-08,3,Emma Schmidt,Maya Brown,850
+October 2026,204,2026-10-15,5,Lukas Weber,Maya Brown,420
+October 2026,205,2026-10-20,3,Emma Schmidt,Maya Brown,6800
+October 2026,206,2026-10-21,2,John Miller,David Lee,1260
+October 2026,207,2026-10-22,6,Noah Adams,Omar Ali,920
+October 2026,209,2026-10-24,1,Ayla Karimova,Omar Ali,760
+October 2026,211,2026-10-26,5,Lukas Weber,David Lee,120
+October 2026,213,2026-10-28,2,John Miller,David Lee,135
+October 2026,214,2026-10-29,8,Sofia Rossi,Omar Ali,850
+October 2026,223,2026-10-29,2,John Miller,David Lee,230
+November 01–07,216,2026-11-02,1,Ayla Karimova,David Lee,55
+November 01–07,217,2026-11-03,7,Lea Fischer,Omar Ali,230
+November 01–07,219,2026-11-05,3,Emma Schmidt,Maya Brown,850
+November 01–07,220,2026-11-06,2,John Miller,David Lee,60

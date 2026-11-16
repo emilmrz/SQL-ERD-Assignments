@@ -1,0 +1,7 @@
+﻿OrderID,ProductID,CustomerID,SalesPersonID,OrderDate,ShipDate,OrderStatus,ShipAddress,BillAddress,Quantity,Sales,CreationTime
+203,102,2,11,2026-10-12,,Pending,,"45 Main St, New York",1,230,2026-10-12 10:00:00
+208,101,4,11,2026-10-23,,Pending,,"8 Rue Lyon, Paris",2,110,2026-10-23 10:00:00
+212,105,3,12,2026-10-27,,Pending,,"22 Oak St, Berlin",2,840,2026-10-27 10:00:00
+215,106,5,12,2026-10-30,,Pending,"16 Park Rd, Munich","16 Park Rd, Munich",1,380,2026-10-30 10:00:00
+224,101,3,12,2026-11-02,,Pending,"22 Oak St, Berlin","22 Oak St, Berlin",2,110,2026-11-02 10:00:00
+218,105,6,14,2026-11-04,,Pending,"31 Oak St, Boston",,1,420,2026-11-04 10:00:00

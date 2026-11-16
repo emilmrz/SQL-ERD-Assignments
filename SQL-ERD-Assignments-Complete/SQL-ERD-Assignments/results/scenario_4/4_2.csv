@@ -1,0 +1,5 @@
+﻿OrderID,CustomerID,CustomerName,Country,Score,Product,Sales
+202,3,Emma Schmidt,Germany,860,Laptop,850
+204,5,Lukas Weber,Germany,550,Smart Phone,420
+205,3,Emma Schmidt,Germany,860,Laptop,6800
+206,2,John Miller,USA,450,Smart Phone,1260

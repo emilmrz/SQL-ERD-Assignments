@@ -1,0 +1,9 @@
+﻿OrderID,CustomerName,OrderDate,OrderStatus
+203,John Miller,2026-10-12,Pending
+208,Sara Martin,2026-10-23,Pending
+210,Noah Adams,2026-10-25,Cancelled
+212,Emma Schmidt,2026-10-27,Pending
+221,Noah Adams,2026-10-28,Shipped
+215,Lukas Weber,2026-10-30,Pending
+224,Emma Schmidt,2026-11-02,Pending
+218,Noah Adams,2026-11-04,Pending
